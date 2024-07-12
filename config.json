@@ -1,10 +1,10 @@
 {
   "authorized_roles": ["dhs", "hollowimport", "police", "metro", "ambulance"],
   "messages": {
-    "no_permission": "Gehe zur Polizei, um dein Handy tracken zu lassen.",
-    "no_phone_number": "Eine Handynummer muss angegeben werden.",
-    "number_not_found": "Nummer konnte nicht geortet werden. Überprüfe die Handynummer.",
-    "tracking_success": "Handy konnte geortet werden. Standort wird übermittelt."
+    "no_permission": "Ask your local police department to track your phone for you.",
+    "no_phone_number": "You need to provide a phone number.",
+    "number_not_found": "Phone could not be located. Verify.",
+    "tracking_success": "Phone located. Location will be transmitted."
   },
   "tracking": {
     "success_threshold": 5,
